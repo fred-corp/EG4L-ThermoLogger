@@ -52,7 +52,7 @@
                 <mxCell id="10" value="4x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="304" y="228" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="LT1205A Compensation, LT1050/52 Amp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="11" value="LT1025A Compensation, LT1050/52 Amp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="354" y="548" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="11" edge="1">
