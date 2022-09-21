@@ -1,5 +1,19 @@
 # EG4L : ThermoLogger
 
+## Project specs
+
+* Thermocouple inputs :
+  * 4x "Generic" MAX6675 front-end (SPI)
+  * 4x "Custom" front-end (LT1205A compensation, LT1050/52 Amplifier, MAX1167 DAC (SPI))
+* Interface :
+  * 1602 Screen (OLED, LCD) (SPI/Parallel)
+  * 4-way joypad (GPIO)
+  * USB (Serial) (Programming, GPIB?)
+* Storage :
+  SD Card (SPI)
+* Power :
+  * AME25-5SVZ Power supply (5V, 4.1A)
+
 ## Acknowledgements
 
 Proudly made by Yana Deruelle & Frédéric Druppel
