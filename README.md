@@ -10,7 +10,7 @@
   * 4-way joypad (GPIO)
   * USB (Serial) (Programming, GPIB?)
 * Storage :
-  SD Card (SPI)
+  * SD Card (SPI)
 * Power :
   * AME25-5SVZ Power supply (5V, 4.1A)
 
