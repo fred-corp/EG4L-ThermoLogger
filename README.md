@@ -4,7 +4,7 @@
 
 * Thermocouple inputs :
   * 2x "Generic" MAX6675 front-end (SPI)
-  * 2x "Custom" front-end (LT1050/52 Amplifier, MAX1167 DAC (SPI))
+  * 2x "Custom" front-end (LTC1049 Amplifier, MAX1167 DAC (SPI))
 * Interface :
   * 1602 Screen (OLED, LCD) (SPI/Parallel)
   * 4-way joypad (GPIO)
