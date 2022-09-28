@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="wiV3gDUrGn5HpKsXygaN" name="Page-1">
-        <mxGraphModel dx="939" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1080" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -76,7 +76,7 @@
                         <mxPoint x="584" y="578" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="18" value="MAX1167 16bit DAC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="18" value="MAX1167 16bit ADC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="549" y="548" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="18" target="6" edge="1">
