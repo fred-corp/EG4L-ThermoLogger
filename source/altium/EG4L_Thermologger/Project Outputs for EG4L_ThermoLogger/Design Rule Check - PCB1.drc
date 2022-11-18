@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : \\Mac\iCloud\ECAM\2022-2023\EG4L PCB Design\Project\source\altium\EG4L_Thermologger\PCB1.PcbDoc
+Date     : 18-11-22
+Time     : 01:03:32
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=1000mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (3135mil,4398mil) on Top Overlay And Pad IC2-5(3145mil,4339mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:13
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (3135mil,4522mil) on Top Overlay And Pad IC2-4(3145mil,4581mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (3305mil,4398mil) on Top Overlay And Pad IC2-8(3295mil,4339mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (3305mil,4522mil) on Top Overlay And Pad IC2-1(3295mil,4581mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (3835mil,4403mil) on Top Overlay And Pad IC1-5(3845mil,4344mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (3835mil,4527mil) on Top Overlay And Pad IC1-4(3845mil,4586mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (4005mil,4403mil) on Top Overlay And Pad IC1-8(3995mil,4344mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Arc (4005mil,4527mil) on Top Overlay And Pad IC1-1(3995mil,4586mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-1(3995mil,4586mil) on Top Layer And Track (3835mil,4542mil)(4005mil,4542mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-2(3945mil,4586mil) on Top Layer And Track (3835mil,4542mil)(4005mil,4542mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-3(3895mil,4586mil) on Top Layer And Track (3835mil,4542mil)(4005mil,4542mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-4(3845mil,4586mil) on Top Layer And Track (3835mil,4542mil)(4005mil,4542mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-5(3845mil,4344mil) on Top Layer And Track (3835mil,4388mil)(4005mil,4388mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-6(3895mil,4344mil) on Top Layer And Track (3835mil,4388mil)(4005mil,4388mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-7(3945mil,4344mil) on Top Layer And Track (3835mil,4388mil)(4005mil,4388mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC1-8(3995mil,4344mil) on Top Layer And Track (3835mil,4388mil)(4005mil,4388mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-1(3295mil,4581mil) on Top Layer And Track (3135mil,4537mil)(3305mil,4537mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-2(3245mil,4581mil) on Top Layer And Track (3135mil,4537mil)(3305mil,4537mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-3(3195mil,4581mil) on Top Layer And Track (3135mil,4537mil)(3305mil,4537mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-4(3145mil,4581mil) on Top Layer And Track (3135mil,4537mil)(3305mil,4537mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-5(3145mil,4339mil) on Top Layer And Track (3135mil,4383mil)(3305mil,4383mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-6(3195mil,4339mil) on Top Layer And Track (3135mil,4383mil)(3305mil,4383mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-7(3245mil,4339mil) on Top Layer And Track (3135mil,4383mil)(3305mil,4383mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (1mil < 5mil) Between Pad IC2-8(3295mil,4339mil) on Top Layer And Track (3135mil,4383mil)(3305mil,4383mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1mil]Waived by Frédéric DRUPPEL at 18-11-22 00:59:55
+Waived Violations :24
+
+Waived Violations Of Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (1548.19mil,795.276mil)(1548.19mil,1144.094mil) on Top Overlay Waived by Frédéric DRUPPEL at 18-11-22 01:00:12
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (1548.19mil,795.276mil)(2021.812mil,795.276mil) on Top Overlay Waived by Frédéric DRUPPEL at 18-11-22 01:00:22
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (2021.812mil,795.276mil)(2021.812mil,1144.094mil) on Top Overlay Waived by Frédéric DRUPPEL at 18-11-22 01:00:27
+Waived Violations :3
+
+
+Violations Detected : 0
+Waived Violations : 27
+Time Elapsed        : 00:00:02
